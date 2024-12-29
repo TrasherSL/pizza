@@ -1,0 +1,1 @@
+The Pizza Ordering System is a user-friendly software application designed to streamline the process of ordering pizzas online. It allows customers to customize their pizzas, place orders, track order statuses, and participate in loyalty programs. Admin users can efficiently manage orders and update their statuses, ensuring smooth operations.
